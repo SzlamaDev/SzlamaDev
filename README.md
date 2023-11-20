@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **milosz.szlama@szlamadev.pl**
 
-- ⚡ Fun fact **I love Beer**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/szlamadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="szlamadev" height="30" width="40" /></a>
