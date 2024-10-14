@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **FiNova**
 
-- 🌱 I’m currently learning **CakePHP, Java**
+- 🌱 I’m currently learning **TailwindCSS, Java**
 
 - 👨‍💻 All of my projects are available at [szlamadev.pl](szlamadev.pl)
 
