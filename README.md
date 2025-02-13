@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SzlamaDev</h1>
 <h3 align="center">Novice programmer, Frontend developer working with React</h3>
 
-- 🔭 I’m currently working on **FiNova**
+- 🔭 I’m currently working on **Celurian**
 
 - 🌱 I’m currently learning **TailwindCSS, Java**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **milosz.szlama@szlamadev.pl**
 
-- ⚡ Fun fact **I love Linux**
+- ⚡ Fun fact **I love Linux, Btw i use Arch**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
